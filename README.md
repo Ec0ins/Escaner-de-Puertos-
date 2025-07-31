@@ -10,6 +10,6 @@ con el uso de esta es:
 
 <pre>sudo python3 scanner.py</pre>
 
-[prueba](imagen.png)
+![prueba](imagen.png)
 
  espero les guste
