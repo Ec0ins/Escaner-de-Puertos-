@@ -1,4 +1,4 @@
-# Escaner-de-Puertos-
+# Escaner de Puertos
 Un escaner de puertos escrito en python 
 
 un escaner de puertos sencillo escrito en python para comprovaciones de puertos de dispositivos en red
